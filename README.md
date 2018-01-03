@@ -1,3 +1,6 @@
+##  forked from helicopters/wc-swiper
+因原项目的分页原点位置及颜色无法自定义修改,所以fork项目修改
+
 ## wc-swiper
 基于 Vue 的移动端的图片轮播组件.
 

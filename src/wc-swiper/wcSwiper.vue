@@ -11,10 +11,11 @@
 }
 // 分页
 .wc-pagination {
+	width: 80px;
 	position: absolute;
-	bottom: 10px;
-	height: 18px;
-	width: 100%;
+	right: 10px;
+	bottom: 5px;
+	height: 13px;
 	background: transparent;
 	display: flex;
 	align-items:center;
@@ -22,14 +23,14 @@
 	.wc-dot {
 		height: 8px;
 		width: 8px;
-		background: #000;
-		opacity: 0.2;
+		background: rgb(255, 255, 255);
+		opacity: 0.5;
 		margin: 0 5px;
 		border-radius: 50%;
 	}
 	.wc-dot-active {
 		opacity: 1;
-		background: #3498db;
+		background: white;
 	}
 }
 </style>
